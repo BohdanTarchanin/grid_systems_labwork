@@ -1,1 +1,0 @@
-# grid_systems_labwork
